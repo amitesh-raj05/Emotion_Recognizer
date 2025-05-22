@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+deepface
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scipy
